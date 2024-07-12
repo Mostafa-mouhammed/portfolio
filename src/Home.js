@@ -16,7 +16,7 @@ function Home() {
       <button class="button">
         <span class="button_lg">
           <span class="button_sl"></span>
-          <a href="../cv.pdf" download="cv.pdf" class="button_text">
+          <a href="./cv.pdf" download="cv.pdf" class="button_text">
             Download my cv
           </a>
         </span>

@@ -36,7 +36,7 @@ function Contact() {
 
                 <a
                   style={{ fill: "black", color: "black" }}
-                  href="../cv.pdf"
+                  href="./cv.pdf"
                   download="cv.pdf"
                   class="card file"
                 >
