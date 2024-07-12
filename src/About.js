@@ -15,8 +15,8 @@ function About() {
         </div>
 
         <div className="about-sub col-12 col-md-5  about-pic">
-          <img  alt="" src="../about/about.png"></img>
-          <img  alt="" className="dev-pic" src="../about/dev.webp"></img>
+          <img  alt="" src="./about/about.png"></img>
+          <img  alt="" className="dev-pic" src="./about/dev.webp"></img>
         </div>
 
 

@@ -16,7 +16,7 @@ function TimeLine() {
               <span class="flag">
                 Suez Canal University{" "}
                 <span className="time-line-logo">
-                  <img alt="" src="../timeline/scu.png" />
+                  <img alt="" src="./timeline/scu.png" />
                 </span>
               </span>
               <span class="time-wrapper">
@@ -38,7 +38,7 @@ function TimeLine() {
               <span class="flag">
                 Graphic Designer{" "}
                 <span className="time-line-logo">
-                  <img alt="" src="../timeline/prof.png" />
+                  <img alt="" src="./timeline/prof.png" />
                 </span>
               </span>
               <span class="time-wrapper">
@@ -64,7 +64,7 @@ function TimeLine() {
               <span class="flag">
                 Information Technology Institute
                 <span className="time-line-logo">
-                  <img alt="" src="../timeline/iti.png" />
+                  <img alt="" src="./timeline/iti.png" />
                 </span>
               </span>
               <span class="time-wrapper">
@@ -86,7 +86,7 @@ function TimeLine() {
               <span class="flag">
                 Link Development{" "}
                 <span className="time-line-logo">
-                  <img alt="" src="../timeline/link.png" />
+                  <img alt="" src="./timeline/link.png" />
                 </span>
               </span>
               <span class="time-wrapper">

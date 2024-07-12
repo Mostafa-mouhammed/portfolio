@@ -36,7 +36,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/powerapp.png" />
+                <img alt="" loading="eager" src="./icons/powerapp.png" />
               </div>
               <div className="skill-title">Power Apps</div>
             </div>
@@ -45,7 +45,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/automate.png" />
+                <img alt="" loading="eager" src="./icons/automate.png" />
               </div>
               <div className="skill-title">Power Automate</div>
             </div>
@@ -54,7 +54,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/bi.png" />
+                <img alt="" loading="eager" src="./icons/bi.png" />
               </div>
               <div className="skill-title">Power BI</div>
             </div>
@@ -63,7 +63,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/virual.png" />
+                <img alt="" loading="eager" src="./icons/virual.png" />
               </div>
               <div className="skill-title">Virual Agent</div>
             </div>
@@ -72,7 +72,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/pages.png" />
+                <img alt="" loading="eager" src="./icons/pages.png" />
               </div>
               <div className="skill-title">Power Pages</div>
             </div>
@@ -81,7 +81,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/html.png" />
+                <img alt="" loading="eager" src="./icons/html.png" />
               </div>
               <div className="skill-title">HTML 5</div>
             </div>
@@ -90,7 +90,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/css.png" />
+                <img alt="" loading="eager" src="./icons/css.png" />
               </div>
               <div className="skill-title">CSS 3</div>
             </div>
@@ -99,7 +99,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/JS.png" />
+                <img alt="" loading="eager" src="./icons/JS.png" />
               </div>
               <div className="skill-title">Javascript</div>
             </div>
@@ -108,7 +108,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/tss.png" />
+                <img alt="" loading="eager" src="./icons/tss.png" />
               </div>
               <div className="skill-title">Typescript</div>
             </div>
@@ -117,7 +117,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/Angular.png" />
+                <img alt="" loading="eager" src="./icons/Angular.png" />
               </div>
               <div className="skill-title">Angular</div>
             </div>
@@ -126,7 +126,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/jqueryy.png" />
+                <img alt="" loading="eager" src="./icons/jqueryy.png" />
               </div>
               <div className="skill-title">jQuery</div>
             </div>
@@ -135,7 +135,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/sqlserverrr.png" />
+                <img alt="" loading="eager" src="./icons/sqlserverrr.png" />
               </div>
               <div className="skill-title">SQL Server</div>
             </div>
@@ -144,7 +144,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/git.png" />
+                <img alt="" loading="eager" src="./icons/git.png" />
               </div>
               <div className="skill-title">Github</div>
             </div>
@@ -153,7 +153,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/bootstrapp.png" />
+                <img alt="" loading="eager" src="./icons/bootstrapp.png" />
               </div>
               <div className="skill-title">Bootstrap</div>
             </div>
@@ -162,7 +162,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/mongodb.png" />
+                <img alt="" loading="eager" src="./icons/mongodb.png" />
               </div>
               <div className="skill-title">MongoDB</div>
             </div>
@@ -171,7 +171,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/node.png" />
+                <img alt="" loading="eager" src="./icons/node.png" />
               </div>
               <div className="skill-title">Node JS</div>
             </div>
@@ -180,7 +180,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/cs.png" />
+                <img alt="" loading="eager" src="./icons/cs.png" />
               </div>
               <div className="skill-title">C Sharp</div>
             </div>
@@ -189,7 +189,7 @@ function Skills() {
           <div className="skill-item-container">
             <div className="skill-item">
               <div className="icon-div">
-                <img alt="" loading="eager" src="../icons/nett.png" />
+                <img alt="" loading="eager" src="./icons/nett.png" />
               </div>
               <div className="skill-title">.NET Core</div>
             </div>

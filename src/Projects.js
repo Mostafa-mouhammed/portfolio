@@ -5,7 +5,7 @@ function Projects() {
     <div className="projects text-white py-5">
       <div className="project-headers row">
         <div className="project-icon col-6">
-          <img  alt="" src="../projects/icon2.png" />
+          <img  alt="" src="./projects/icon2.png" />
         </div>
         <div className="col-6 project-title-header">
           <p>My Projects</p>
@@ -16,7 +16,7 @@ function Projects() {
         <div className="row justify-content-evenly">
           <div className="projects-card col-12 col-md-5 mx-auto">
             <div className="project-img">
-              <img alt="" src="../projects/horus.png" />
+              <img alt="" src="./projects/horus.png" />
             </div>
             <div className="project-title p-1">
               Horus - Movies Web Application
@@ -43,7 +43,7 @@ function Projects() {
 
           <div className="projects-card col-12 col-md-5 mt-5 mt-md-0 mx-auto">
             <div className="project-img">
-              <img  alt="" src="../projects/galaxy.jpeg" />
+              <img  alt="" src="./projects/galaxy.jpeg" />
             </div>
             <div className="project-title p-1">
               Galaxy - Ecommerce Web Application

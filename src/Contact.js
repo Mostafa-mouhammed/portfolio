@@ -5,7 +5,7 @@ function Contact() {
     <div className="contact">
       <div className="contact-header">
         <div className="printer-img">
-          <img  alt="" src="../about/feature-print.png" />
+          <img alt="" src="./about/feature-print.png" />
         </div>
 
         <div className="contact-txt">Contact me</div>
